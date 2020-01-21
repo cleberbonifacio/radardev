@@ -1,0 +1,13 @@
+yarn init -y
+yarn add express
+
+Atualizar codigo automatico
+yarn add nodemon -D
+
+BD
+yarn add mongoose
+
+Chamadas para outras APis
+yarn add axios
+
+yarn add cors

@@ -1,0 +1,8 @@
+yarn add react-navigation
+yarn add react-navigation-stack
+yarn add react-native-community/masked-view
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context
+expo install expo-location
+expo install react-native-webview
+
+yarn add axios
